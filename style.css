@@ -1,0 +1,32 @@
+body{
+    text-align: center;
+}
+
+h1{
+font: size 40px;
+font-weight: 300;
+font-family:'Oswald', sans-serif;
+}
+
+#apps{
+background-color: aquamarine;
+}
+
+#games{
+    background-color: bisque;
+}
+
+#chatbot{
+    background-color: #966e08;
+}
+
+.line{
+    height: 6px;
+    width: 70px;
+  
+  background-color: black;
+}
+
+img{
+height: 400px;
+}
